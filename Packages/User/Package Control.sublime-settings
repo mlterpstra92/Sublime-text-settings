@@ -1,0 +1,15 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"LaTeXTools",
+		"Package Control",
+		"Predawn",
+		"Schemr",
+		"Shader Syntax (GLSL HLSL Cg)",
+		"Themr"
+	]
+}
